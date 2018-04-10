@@ -1,0 +1,4 @@
+cannot find "/usr/share/rubygems-integration/all/gems/rake-10.5.0/bin/"->issue
+__________________-----------______________---------_______---__-______________
+mkdir -p /usr/share/rubygems-integration/all/gems/rake-10.5.0/bin
+ln -s /usr/bin/rake /usr/share/rubygems-integration/all/gems/rake-10.5.0/bin/
